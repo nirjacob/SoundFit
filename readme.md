@@ -1,6 +1,4 @@
 
-<a href="" target='_blank' > <h1>🎶 ONGOING - link coming soon 🎶</h1></a>
-<br>
 ## Welcome to my sound outfit project!
 ### Outfit with woven sensors connected to Arduino board capable of playing beats as reactions. 
 ### Done in collaboration with fashion design student, to bring beats into clothes.
